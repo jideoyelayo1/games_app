@@ -61,6 +61,7 @@ flutter:
   assets:
     - assets/
     - assets/hangman/
+    - assets/flappybird/
     - images/
   #   - images/a_dot_ham.jpeg
 
